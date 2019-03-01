@@ -1,0 +1,17 @@
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\bin\Debug\TestTrivia.dll
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\bin\Debug\TestTrivia.pdb
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\bin\Debug\Trivia.exe
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\bin\Debug\xunit.abstractions.dll
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\bin\Debug\xunit.assert.dll
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\bin\Debug\xunit.core.dll
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\bin\Debug\xunit.execution.desktop.dll
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\bin\Debug\Trivia.pdb
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\bin\Debug\xunit.abstractions.xml
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\bin\Debug\xunit.assert.xml
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\bin\Debug\xunit.core.xml
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\bin\Debug\xunit.execution.desktop.xml
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\obj\Debug\TestTrivia.csprojResolveAssemblyReference.cache
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\obj\Debug\TestTrivia.csproj.CoreCompileInputs.cache
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\obj\Debug\TestTrivia.csproj.CopyComplete
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\obj\Debug\TestTrivia.dll
+C:\Users\rob\source\repos\Trivia\C#\Trivia\TestTrivia\obj\Debug\TestTrivia.pdb
